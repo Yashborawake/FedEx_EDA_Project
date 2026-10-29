@@ -66,7 +66,7 @@ Since the p-value is below 0.05, the analysis indicates a statistically signific
 
 ## 📂 Project Repository
 
-**GitHub Repository:** [FedEx_EDA_Project]((https://github.com/Yashborawake/FedEx_EDA_Project.git))
+**GitHub Repository:** [FedEx_EDA_Project](https://github.com/Yashborawake/FedEx_EDA_Project.git)
 
 ## 🚀 Conclusion
 
